@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feladorhet
 - 👀 I’m interested in Cyber security, backend development, data science and volleyball!
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning C and SQL
 - 📫 How to reach me : meric.haliloglu@metu.edu.tr or merichaliloglu@gmail.com
 
 <!---
