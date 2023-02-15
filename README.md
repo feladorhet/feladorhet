@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feladorhet
-- 👀 I’m interested in cyber security and deep learning!
+- 👀 I’m interested in data science and deep learning!
 - 📫 How to reach me : meric.haliloglu@metu.edu.tr or merichaliloglu@gmail.com
 
 <!---
