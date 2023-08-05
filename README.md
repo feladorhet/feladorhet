@@ -1,11 +1,18 @@
-# Hi There!
----------------------------------------------------------
-## - 👋 I’m Meriç!
-## - 👀 I’m interested in data science, machine learning and neural networks!
-## - 🗪 Currently working on Natural Language Processing and LLM's!
-## - 📫 How to reach me : meric.haliloglu@ceng.metu.edu.tr | merichaliloglu@gmail.com | meric@metacognitiveai.com
+# Hey there! 👋
 
-<!---
-feladorhet/feladorhet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Meriç, an undergrad computer engineering student at Middle East Technical University (METU). Here, you'll find a collection of my projects, contributions, and explorations.
+
+## About Me
+
+I'm a computer engineering major with a keen interest in Data Science, Machine Learning and Neural Networks.
+
+## What You'll Find Here
+
+- 🚀 A showcase of my latest projects and experiments.
+- 🌱 Contributions to open-source projects that I'm passionate about.
+
+## Connect with Me
+
+Feel free to reach out for questions or collaborations.
+- 📫 How to reach me: merichaliloglu@gmail.com | meric.haliloglu@ceng.metu.edu.tr | meric@metacognitiveai.com.
+
